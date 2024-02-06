@@ -1,2 +1,2 @@
 # nerf_pytorch
-A minimal implementation of NeRF using pytorch
+A tiny minimal implementation of NeRF using pytorch 
